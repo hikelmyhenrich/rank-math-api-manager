@@ -42,7 +42,7 @@ POST /wp-json/rank-math-api/v1/update-meta
 ## 📺 Vídeo explicativo
 
 Leia neste artigo de como identifiquei o problema, desenvolvi a solução e a testei:
-🔗 [Ler tutorial]([#](https://hikelmyhenrich.com/como-automatizei-o-rank-math-seo-no-wordpress-via-rest-api-e-n8n-uma-solucao-pratica-para-otimizacao-de-seo-em-massa/)) *(adicione o link do vídeo quando subir)*
+🔗 [Ler tutorial](https://hikelmyhenrich.com/como-automatizei-o-rank-math-seo-no-wordpress-via-rest-api-e-n8n-uma-solucao-pratica-para-otimizacao-de-seo-em-massa/)
 
 ---
 
